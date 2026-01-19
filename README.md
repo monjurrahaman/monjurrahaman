@@ -13,7 +13,7 @@ I'm a web developer with a strong passion for building dynamic and responsive we
 - **Tools**: VSCode, Postman, Thunder Client
 
 ## 📈 GitHub Stats
-![Monjur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MONJUR21&show_icons=true&hide_title=true&count_private=true&hide=prs)
+![Monjur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=monjurrahaman&show_icons=true&hide_title=true&count_private=true&hide=prs)
 
 ## 📫 How to Reach Me:
 - Email: monjur.csecu@gmail.com
