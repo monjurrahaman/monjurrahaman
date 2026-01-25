@@ -87,14 +87,14 @@ Custom-built e-commerce system similar to EverShop.
 
 ## 📈 GitHub Stats
 
-![Monjur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=monjurrahaman&show_icons=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=monjurrahaman&layout=compact)
+![Monjur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=monjur-rahaman&show_icons=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=monjur-rahaman&layout=compact)
 
 ---
 
 ## 📫 How to Reach Me
 - 📧 Email: **monjur.csecu@gmail.com**
-- 💼 LinkedIn: [https://www.linkedin.com/in/monjur28/](https://www.linkedin.com/in/monjur28/)
+- 💼 LinkedIn: [https://www.linkedin.com/in/monjur-rahaman/](https://www.linkedin.com/in/monjur-rahaman/)
 
 ---
 
