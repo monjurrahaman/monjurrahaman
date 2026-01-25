@@ -78,13 +78,6 @@ Custom-built e-commerce system similar to EverShop.
 
 ---
 
-## 🌱 Currently Learning
-- Advanced React patterns & optimization
-- Tailwind CSS (advanced layouts & animations)
-- Machine Learning fundamentals
-
----
-
 ## 📈 GitHub Stats
 
 ![Monjur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=monjur-rahaman&show_icons=true&count_private=true)
